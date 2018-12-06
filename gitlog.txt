@@ -1,0 +1,96 @@
+commit 49d1cc9a7c7755d9b4c12f417d2b5937fe2e4089
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Sat Oct 25 21:18:34 2014 -0600
+
+    Finished writing in names to the rooms.
+
+commit 1b36e44f7d5d269fd3e67e7640149e740cd020c4
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Sat Oct 25 20:42:25 2014 -0600
+
+    Finished drawing the board and menu. Working on drawing room names.
+
+commit 3b6f7ba4cba0ed61b41c9cdb41e9c81db253e76f
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Wed Oct 22 21:56:27 2014 -0600
+
+    Added comments to further explain functions and tests. Also cleaned up code.
+
+commit 2282e08bae7383a496b500e1cb6461c68c3ef834
+Merge: 368c6f8 4d37f72
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Wed Oct 22 21:17:40 2014 -0600
+
+    Merge https://github.com/pachecoae/ClueGame-AJ
+
+commit 368c6f8a49ccef6fe66477efb062c88c04be4a3e
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Wed Oct 22 21:13:40 2014 -0600
+
+    Added files. Ready to push to github.
+
+commit 866979529e57259cfcac06e69826e35699fd03f3
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Wed Oct 22 21:08:08 2014 -0600
+
+    Finished passing test for all GameActionTests.
+
+commit 982554354942a44e83f0e5ed4dc6f8df73706581
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Wed Oct 22 18:42:31 2014 -0600
+
+    Finished creating the test for disproveSuggestion. Not working yet.
+
+commit 58874ad2d78d4a49870f2bca3343852b0a08758d
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Tue Oct 21 22:00:31 2014 -0600
+
+    Wrote test to see if players were queried in order.
+
+commit 4b2888b73a797c6895cae90650016fa0d0b6f18c
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Tue Oct 21 21:45:46 2014 -0600
+
+    Created test for when 1 card disproves the suggestion or 2; Subsequently fixed deal and disproveSuggestion so that both tests are now passing. Three tests still need to be created for disproveSuggestion.
+
+commit dc49b11efe15a14e703f0c0432aeff70570ca654
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Tue Oct 21 21:02:38 2014 -0600
+
+    Finished passing tests for all tests except for disproveSuggestion. Still have to finish creating test for disproveSuggestion.
+
+commit f4eab04b708397abee5c6efcfb7cdb264c936c5c
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Tue Oct 21 17:43:01 2014 -0600
+
+    Finished writing target tests; Started writing disproveSuggestion tests.
+
+commit aadd5c4986a2227bf37138d556cb6e5e239cda78
+Author: Andre Pacheco <apacheco@mymail.mines.edu>
+Date:   Mon Oct 20 23:33:58 2014 -0600
+
+    Finished makeSuggestion test.
+
+commit 4d37f726a0ad553a05f4195bceceac10972f5472
+Author: Fiji <fiji@example.com>
+Date:   Thu Oct 16 20:59:21 2014 -0600
+
+    Added comments to tests and classes.
+
+commit 714884b26b0fda5fcbeda00e01f25f1bc309d78b
+Author: Fiji <fiji@example.com>
+Date:   Thu Oct 16 20:41:29 2014 -0600
+
+    Added configuration files to the repo
+
+commit a2e714b57b565d332d48c67f89249b763535ddf6
+Author: Fiji <fiji@example.com>
+Date:   Thu Oct 16 20:40:32 2014 -0600
+
+    GameActionTests now passing all tests.
+
+commit cda0f95ccee4b4efe7a926a179c674c3a510a673
+Author: Fiji <fiji@example.com>
+Date:   Thu Oct 16 20:02:40 2014 -0600
+
+    Fixed deal, loadCardConfig, loadPlayersConfig, and updated loadConfigFiles. Also fixed tests in GameSetupTests. Now passing all except GameActionTests.
